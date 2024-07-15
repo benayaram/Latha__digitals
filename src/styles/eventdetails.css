@@ -1,0 +1,23 @@
+.event-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .event-thumbnail {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .event-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .event-image {
+    width: calc(33.33% - 10px); /* Adjust as needed */
+    height: auto;
+    object-fit: cover;
+  }

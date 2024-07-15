@@ -1,0 +1,42 @@
+.admin-panel {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .admin-form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .admin-form input,
+  .admin-form button {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .event-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .event-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .event-thumbnail {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .event-item button {
+    margin-left: auto;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
