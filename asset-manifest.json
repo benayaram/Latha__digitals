@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Latha__digitals/static/css/main.adba5ff0.css",
+    "main.js": "/Latha__digitals/static/js/main.b5e6b546.js",
+    "static/js/453.2465279c.chunk.js": "/Latha__digitals/static/js/453.2465279c.chunk.js",
+    "index.html": "/Latha__digitals/index.html",
+    "main.adba5ff0.css.map": "/Latha__digitals/static/css/main.adba5ff0.css.map",
+    "main.b5e6b546.js.map": "/Latha__digitals/static/js/main.b5e6b546.js.map",
+    "453.2465279c.chunk.js.map": "/Latha__digitals/static/js/453.2465279c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adba5ff0.css",
+    "static/js/main.b5e6b546.js"
+  ]
+}
